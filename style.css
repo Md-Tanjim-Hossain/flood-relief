@@ -2,6 +2,9 @@
     padding: 0%;
     margin: 0%;
 }
+
+/* Header section */
+
 .header-section {
     background-image: url(./images/donation13.jpg);
     background-repeat: no-repeat;
@@ -34,4 +37,17 @@
     color: white;
     font-weight: 700;
     font-size: 18px;
+}
+
+/* Hero Section */
+
+.hero-content   {
+    text-align: center;
+    /* color: white; */
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+.h1-hero   {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
 }
