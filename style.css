@@ -88,3 +88,22 @@
     text-decoration: none;
     border
 }
+
+/* Donate Plan Section */
+
+.donate-section {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.card-section   {
+    display: flex;
+    font-family: 'Merriweather', serif;
+    margin: 0 100px 60px;
+}
+.box-container  {
+    background-color: lightskyblue;
+    text-align: justify;
+    padding: 60px 30px;
+    margin: 0 20px;
+}
