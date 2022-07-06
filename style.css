@@ -1,6 +1,6 @@
 *   {
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
 
 /* Header section */
@@ -86,7 +86,6 @@
 }
 .link-hero  {
     text-decoration: none;
-    border
 }
 
 /* Donate Plan Section */
@@ -100,6 +99,12 @@
     display: flex;
     font-family: 'Merriweather', serif;
     margin: 0 100px 60px;
+}
+.card-section h3    {
+    margin-bottom: 20px;
+}
+.card-section img  {
+    margin-bottom: 20px;
 }
 .box-container  {
     text-align: justify;
