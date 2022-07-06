@@ -138,13 +138,13 @@
 }
 .info-link-button   {
     display: block;
-    width: 120px;
+    width: 144px;
     margin-top: 134px;
     margin-left: 117px;
     text-decoration: none;
     background-image: radial-gradient(blue, tomato);
     box-shadow: 3px 5px #8888887e;
-    padding: 18px 40px;
+    padding: 18px 36px;
     border-radius: 10px;
     color: white;
     font-weight: 700;
