@@ -4,7 +4,6 @@
 }
 
 /* Header section */
-
 .header-section {
     background-image: url(./images/donation13.jpg);
     background-repeat: no-repeat;
@@ -40,7 +39,6 @@
 }
 
 /* Hero Section */
-
 .hero-content   {
     text-align: center;
     padding-top: 100px;
@@ -89,7 +87,6 @@
 }
 
 /* Donate Plan Section */
-
 .donate-section {
     text-align: center;
     padding-top: 10px;
@@ -100,7 +97,7 @@
     font-family: 'Merriweather', serif;
     margin: 0 100px 60px;
 }
-.card-section h3    {
+.card-section h3   {
     margin-bottom: 20px;
 }
 .card-section img  {
@@ -122,10 +119,8 @@
 }
 
 /* Information Section */
-
 .info-section   {
     display: flex;    
-    /* margin: 0 100px 60px; */
     clip-path: polygon(0 0, 100% 0, 96% 16%, 100% 99%, 0 100%, 4% 84%);
     height: 100%;
     width: 100%;
@@ -183,3 +178,58 @@
     padding: 10px 0;
     font-size: 18px;
 }
+
+/* Get My Updates Section */
+.updates-section   {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 110px;    
+}
+.h1-updates   {
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+.p-updates  {
+    font-size: 18px;
+    margin:0 260px 70px;
+    font-family: 'Roboto', sans-serif;
+}
+.bg-inpit-updates   {
+    background-color: rgba(255, 160, 122, 0.138);
+    padding: 110px 0px;
+    margin: 0 160px;
+}
+.input-updates  {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 0 10px 20px;
+    background-color: rgba(173, 216, 230, 0.437);
+}
+.bg-inpit-updates a {
+    text-decoration: none;
+        background-color: rgba(255, 0, 0, 0.705);
+        padding: 16px 30px;
+        color: white;
+        font-weight: 700;
+        font-size: 16px;
+}
+
+/* Footer Section */
+footer  {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 50px 0;
+}
+footer h1   {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
+    color: red;
+}
+footer h5   {
+    padding-top: 30px;
+    font-family: 'Poppins', sans-serif;    
+}
+/* End */
