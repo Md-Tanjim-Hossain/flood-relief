@@ -102,8 +102,16 @@
     margin: 0 100px 60px;
 }
 .box-container  {
-    background-color: lightskyblue;
     text-align: justify;
     padding: 60px 30px;
     margin: 0 20px;
+}
+.box-color1  {
+    background-color: rgba(135, 206, 250, 0.14);
+}
+.box-color2 {
+    background-color: rgba(250, 162, 135, 0.165);
+}
+.box-color3 {
+    background-color: rgba(250, 248, 135, 0.31);
 }
