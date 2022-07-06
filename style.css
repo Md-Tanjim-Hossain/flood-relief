@@ -5,7 +5,7 @@
 
 /* Header section */
 .header-section {
-    background-image: url(./images/donation13.jpg);
+    background-image: url(./images/donation5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,6 +14,7 @@
     color: white;
     padding-top: 100px;
     padding-bottom: 110px;
+    background-color: #000000a8;
 }
 .h1-header  {
     font-family: 'Merriweather', serif;
@@ -171,7 +172,8 @@
     font-family: 'Poppins', sans-serif;
 }
 .contents-info3 h2 {
-    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom: 29px;
 }
 .contents-info3 li {
     list-style-type: none;
@@ -203,16 +205,17 @@
 .input-updates  {
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
+    width: 300px;
     padding: 10px 0 10px 20px;
     background-color: rgba(173, 216, 230, 0.437);
 }
 .bg-inpit-updates a {
     text-decoration: none;
-        background-color: rgba(255, 0, 0, 0.705);
-        padding: 16px 30px;
-        color: white;
-        font-weight: 700;
-        font-size: 16px;
+    background-color: rgba(255, 0, 0, 0.705);
+    padding: 16px 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
 }
 
 /* Footer Section */
