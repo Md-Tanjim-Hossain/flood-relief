@@ -48,11 +48,12 @@
 .h1-hero   {
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
+    padding-bottom: 22px;
 }
 .p-hero {
-    width: 800px;
-    font-size: 16px;
-    padding-left: 290px;
+    width: 804px;
+    font-size: 15px;
+    padding-left: 272px;
     padding-bottom: 50px;
 }
 .li-hero  {
@@ -90,7 +91,6 @@
 /* Donate Plan Section */
 .donate-section {
     text-align: center;
-    padding-top: 10px;
     padding-bottom: 20px;
 }
 .card-section   {
@@ -98,11 +98,21 @@
     font-family: 'Merriweather', serif;
     margin: 0 100px 60px;
 }
+.p-donate-plan  {
+    width: 857px;
+    font-size: 15px;
+    padding-left: 272px;
+    padding-bottom: 50px;
+}
 .card-section h3   {
     margin-bottom: 20px;
 }
 .card-section img  {
     margin-bottom: 20px;
+}
+.card-section p {
+    font-family: 'Roboto', sans-serif;
+    width: 290px;
 }
 .box-container  {
     text-align: justify;
@@ -195,6 +205,7 @@
 .p-updates  {
     font-size: 18px;
     margin:0 260px 70px;
+    width: 810px;
     font-family: 'Roboto', sans-serif;
 }
 .bg-inpit-updates   {
