@@ -120,3 +120,32 @@
 .box-color3 {
     background-color: rgba(250, 248, 135, 0.31);
 }
+
+/* Information Section */
+
+.info-section   {
+    display: flex;
+    font-family: 'Merriweather', serif;
+    margin: 0 100px 60px;
+}
+.contents-info1  {
+    /* text-align: justify; */
+    padding: 60px 15px;
+    margin: 0 20px;
+}
+.contents-info1 h1 {
+    font-size: 60px;
+}
+.info-link-button   {
+    display: block;
+    width: 120px;
+    margin-top: 40px;
+    text-decoration: none;
+    background-image: radial-gradient(blue, tomato);
+    box-shadow: 3px 5px #8888887e;
+    padding: 18px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
